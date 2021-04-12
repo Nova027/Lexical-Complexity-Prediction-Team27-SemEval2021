@@ -32,6 +32,8 @@ Each folder has corresponding .ipynb notebook file, open to view or open in cola
 
 NOTE: This repo contains code for the best performing model we have tried so far, for exploring our all approaches visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
 
+Presentation Video (Code Walkthrough) : [YouTube Link](https://youtu.be/Yc4yAQRII7A)
+
 ## Requirements
 All the requirements are either already available in google colab OR explicit code is written in the notebook to import those from external sources.
 
