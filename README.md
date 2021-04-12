@@ -20,3 +20,12 @@
 3. Haresh Gaikwad -- 20CS60R09
 4. Subhama Jana -- 20CS60R19
 5. Md Laadla -- 20CS60R20
+
+## Instructions
+
+Two folders for two subtask are present:
+
+1. LCP subtask-1 single
+2. LCP subtask-2 multi
+
+Each folder has corresponding .ipynb notebook file
