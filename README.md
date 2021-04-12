@@ -2,6 +2,7 @@
 **Natural Language Processing (CS60075)**
 
 **Lexical Complexity Prediction (LCP) shared task**
+
 **SemEval 2021 (Task 1)**
  
 **_iitkgp_CS60075_team27_**
@@ -10,7 +11,7 @@
 2. Sub-task 2: Predicting the complexity score of multi-word expressions
 
 ## Group Details
-> Team ID: CS60075_team27
+> Team ID: CS60075_team27 | 
 > Team Name: iitkgp_CS60075_team27
 
 ***Names -- Roll Numbers***
