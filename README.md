@@ -28,4 +28,6 @@ Two folders for two subtask are present:
 1. LCP subtask-1 single
 2. LCP subtask-2 multi
 
-Each folder has corresponding .ipynb notebook file
+Each folder has corresponding .ipynb notebook file, open to view or open in colab to try and execute.
+
+**Thanks!**
