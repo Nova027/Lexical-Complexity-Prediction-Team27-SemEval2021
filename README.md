@@ -30,6 +30,6 @@ Two folders for two subtask are present:
 
 Each folder has corresponding .ipynb notebook file, open to view or open in colab to try and execute.
 
-NOTE: This repo contains code for the best performing model we have tried so far, for exploring our all approaches visit [GitHub Pages](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
+NOTE: This repo contains code for the best performing model we have tried so far, for exploring our all approaches visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
 
 **Thanks!**
