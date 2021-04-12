@@ -36,6 +36,6 @@ NOTE: This repo contains code for the best performing model we have tried so far
 [YouTube Link](https://youtu.be/Yc4yAQRII7A)
 
 ## Requirements
-All the requirements are either already available in google colab OR explicit code is written in the notebook to import those from external sources.
+All the requirements are either already available in google colab and for others explicit code is written in the notebook to import those from external sources.
 
 **Thanks!**
