@@ -28,13 +28,13 @@ Two folders are created, one containing ipython Notebooks for each subtask :
 1. LCP subtask-1 single; contains "Single_Final.ipynb"
 2. LCP subtask-2 multi; contains "Multi_Final.ipynb"
 
-Each folder has corresponding .ipynb notebook file, open to view or open in colab to try and execute.
+Open the notebooks to view ; or open in Google Colab to try and execute.
 
-NOTE: This repo contains code for the best performing model we have tried so far, for exploring all of our work visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
+NOTE: This repo contains code for the best performing model we have tried so far! To explore all of our work, visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
 
 
 ## Presentation Video (Code Walkthrough)
-[![]()](https://youtu.be/Yc4yAQRII7A "Watch on YouTube")
+[![](http://img.youtube.com/vi/Yc4yAQRII7A/sddefault.jpg)](https://www.youtube.com/embed/Yc4yAQRII7A "Watch on YouTube")
 
 
 ## Requirements
