@@ -25,8 +25,8 @@
 ## Instructions
 
 Two folders are created, one containing ipython Notebooks for each subtask. Open the notebooks to view ; or open in Jupyter or Google Colab to try and execute. Contents of the Folders : 
-1. LCP subtask-1 single; contains "Single_Final.ipynb". ***README contains Colab link to the same.***
-2. LCP subtask-2 multi; contains "Multi_Final.ipynb". ***README contains Colab link to the same.***
+1. LCP subtask-1 single; contains "Single_Final.ipynb" & "README.md". ***README contains Colab link to notebook.***
+2. LCP subtask-2 multi; contains "Multi_Final.ipynb" & "README.md". ***README contains Colab link to notebook.***
 
 **We recommend Google Colab for execution of the notebooks** *(We have created and tested all of the sections on Colab)*
 
