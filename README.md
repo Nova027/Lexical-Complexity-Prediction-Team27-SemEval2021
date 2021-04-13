@@ -21,21 +21,23 @@
 4. Subhama Jana -- 20CS60R19
 5. Md Laadla -- 20CS60R20
 
+
 ## Instructions
 
-Two folders for two subtask are present:
-
-1. LCP subtask-1 single
-2. LCP subtask-2 multi
+Two folders are created, one containing ipython Notebooks for each subtask : 
+1. LCP subtask-1 single; contains "Single_Final.ipynb"
+2. LCP subtask-2 multi; contains "Multi_Final.ipynb"
 
 Each folder has corresponding .ipynb notebook file, open to view or open in colab to try and execute.
 
 NOTE: This repo contains code for the best performing model we have tried so far, for exploring all of our work visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
 
+
 ## Presentation Video (Code Walkthrough)
-[YouTube Link](https://youtu.be/Yc4yAQRII7A)
+[![YouTube link](https://img.youtube.com/vi/Yc4yAQRII7A/maxresdefault.jpg)](https://youtu.be/Yc4yAQRII7A)
+
 
 ## Requirements
-All the requirements are either already available in google colab and for others explicit code is written in the notebook to import those from external sources.
+Most of the necessary requirements are already available in Google Colab ; and for others explicit code is written in the Notebook to install those from external sources.
 
 **Thanks!**
