@@ -25,12 +25,12 @@
 ## Instructions
 
 Two folders are created, one containing ipython Notebooks for each subtask. Open the notebooks to view ; or open in Jupyter or Google Colab to try and execute. Contents of the Folders : 
-1. LCP subtask-1 single; contains "Single_Final.ipynb"
-2. LCP subtask-2 multi; contains "Multi_Final.ipynb"
+1. LCP subtask-1 single; contains "Single_Final.ipynb". ***README contains Colab link to the same.***
+2. LCP subtask-2 multi; contains "Multi_Final.ipynb". ***README contains Colab link to the same.***
 
 **We recommend Google Colab for execution of the notebooks** *(We have created and tested all of the sections on Colab)*
 
-We highly encourage going through the following Presentation Video & the submitted Report in tandem, or in adjacent timeframes. The Report & the Presentations are **almost** each self-sufficient, but due to the respective 15-min & 5-page limits, there were limitations on what content we could cover. It would be simpler to make complete sense of our work by going through both.
+We highly encourage going through the following Presentation Video & the submitted Report in tandem, or in adjacent timeframes. The Report & the Presentations are **almost** each self-sufficient, but due to the respective 15-min & 5-page limits, there were limitations on what content we could cover *(Certain things are covered better in the video than the report, & vice versa)*. It would be simpler to make complete sense of our work by going through both.
 <br><br>
 
 **NOTE**: This repo contains code for the best performing model we have tried so far! To explore all of our work, visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
