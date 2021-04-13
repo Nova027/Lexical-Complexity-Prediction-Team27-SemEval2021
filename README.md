@@ -34,7 +34,7 @@ NOTE: This repo contains code for the best performing model we have tried so far
 
 
 ## Presentation Video (Code Walkthrough)
-[Link](https://youtu.be/Yc4yAQRII7A "Watch on YouTube")
+[![]()](https://youtu.be/Yc4yAQRII7A "Watch on YouTube")
 
 
 ## Requirements
