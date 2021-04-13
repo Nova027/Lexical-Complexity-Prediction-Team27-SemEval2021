@@ -24,6 +24,8 @@
 
 ## Instructions
 
+Two screenshot images are attached to this repository, showing the CodaLab evaluation scores of our submissions, for each of the two subtasks. 2 scores are displayed for Subtask-1 due to 2 submissions. *The final submission (visible on Leaderboard) has a "green tick" to its right*.
+
 Two folders are created, one containing ipython Notebooks for each subtask. Open the notebooks to view ; or open in Jupyter or Google Colab to try and execute. Contents of the Folders : 
 1. LCP subtask-1 single; contains "Single_Final.ipynb" & "README.md". ***README contains Colab link to notebook.***
 2. LCP subtask-2 multi; contains "Multi_Final.ipynb" & "README.md". ***README contains Colab link to notebook.***
