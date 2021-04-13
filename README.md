@@ -29,8 +29,7 @@ Two folders are created, one containing ipython Notebooks for each subtask. Open
 2. LCP subtask-2 multi; contains "Multi_Final.ipynb"
 
 **We recommend Google Colab for execution of the notebooks** *(Since, we have created and tested all of the sections on Colab)*
-
-<br><br>
+<br>
 
 **NOTE**: This repo contains code for the best performing model we have tried so far! To explore all of our work, visit [Drive Link](https://drive.google.com/drive/folders/13FLrsgNh_AiGIdTF1OtO78vDdsIjQ416?usp=sharing).
 
