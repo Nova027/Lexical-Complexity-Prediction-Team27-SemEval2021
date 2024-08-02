@@ -18,7 +18,7 @@
 1. Shashwata Mondal -- 16CS30034
 2. Swarnava Das -- 20CS60R07
 3. Haresh Gaikwad -- 20CS60R09
-4. Subhama Jana -- 20CS60R19
+4. Subham Jana -- 20CS60R19
 5. Md Laadla -- 20CS60R20
 
 
